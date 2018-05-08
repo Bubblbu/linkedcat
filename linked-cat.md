@@ -36,3 +36,9 @@ What is the current status quo of the number of items that humans are capable of
 ### The experience of searching, exploring, and discovering
 
 When is a search finished? Can or should we provide a notion of exhaustiveness?
+
+### Inequality and power dynamics within maps
+
+Do we reproduce certain power dynamics from the system?
+Do we introduce some inequalities and negative effects ourselves within our interface?
+How can we counter those?
